@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="apple-touch-icon" sizes="64x64" href="assets/images/icon.png">
+		<link rel="shortcut icon" sizes="64x64" href="assets/images/icon.png">
+		<link rel="stylesheet" href="/index.css"> 
+		<script type="text/javascript" src="js/lib/phaser.min.js"></script>
+		<script type="text/javascript" src="js/lib/fulltilt.min.js"></script>
+		<script type="text/javascript" src="js/lib/NoSleep.min.js"></script>
+		<script type="text/javascript" src="js/build/doodlejump.js"></script>
+		<title>Doodle Jump</title>
+	</head>
+	<body>
+		<input id="highscore" type="text">
+		<script type="text/javascript" src="js/main.js"></script>  
+		<script> 
+		var noSleep = new NoSleep();
+
+		function enableNoSleep() {
+		noSleep.enable();
+		document.removeEventListener('touchstart', enableNoSleep, false);
+		}
+
+		document.addEventListener('touchstart', enableNoSleep, false);
+		</script>
+	</body>
+</html>

@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+	padding: 0px;
+  	margin: 0px;
+}
+
+#highscore {
+	position: absolute;
+	left: calc(-100px);
+	Top: calc(-100px);
+	width: 5px;
+	display: 'none';
+}
