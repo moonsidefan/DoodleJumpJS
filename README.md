@@ -1,7 +1,7 @@
 # DoodleJumpJS
 This is the web version of Doodle Jump 2016. 
 
-<img src="https://github.com/moonsidefan/DoodleJumpJS" width="350"/>
+<img src="https://github.com/moonsidefan/blob/main/DoodleJumpJS" width="350"/>
 
 ## The build is unminified. 
 
