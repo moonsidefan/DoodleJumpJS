@@ -15,8 +15,7 @@ Currently the game crashes if you die or want to check the global scoreboard.
 
 ### What is the goal of this project?
 
-The goal of it is to make this a fully bug-free and enjoyabel game, that has an code easy to read and to understand.
-The code regardig ads, promotion for the mobile versions of the game and the global score board shall be removed, since it is not nescessary for the game or hard to implement.
+The goal of it is to make this a fully bug-free and enjoyable game, that has an code easy to read and to understand.
+The code regarding ads, promotion for the mobile versions of the game and the global scoreboard shall be removed, since it is not nescessary for the game or hard to implement.
 This lays the groundwork for modifications or features that the mobile versions currently have.
-Think of it as an decompilation project except for that the game's code is already availyable, just really hard to read. 
-
+Think of it as an decompilation project except for that the game's code is already available, just really hard to read. 
