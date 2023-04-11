@@ -1,9 +1,10 @@
+      Cancel changes
 # DoodleJumpJS
 This is the web version of Doodle Jump 2016. 
 
 <img src="https://github.com/moonsidefan/DoodleJumpJS/blob/main/doodlejump.png" width="350"/>
 
-## The build is unminified. 
+## The build is unminified
 
 If you want to contribute to make a good readable source code out of this, I would appreciate this.
 
@@ -11,7 +12,7 @@ If you want to contribute to make a good readable source code out of this, I wou
 
 You have to put all the files on a webserver. This can also be localhost. This is due to Phaser (the JavaScript Engine) requesting the game to not run in the file system. I don't know whether this can be changed since this is a older version of Phaser.
 
-Currently the game crashes if you die or want to check the global scoreboard.
+Currently the game crashes if you die or want to check the global scoreboard. I think this is caused due to an issue with its ad system.
 
 ### What is the goal of this project?
 
