@@ -1,4 +1,3 @@
-      Cancel changes
 # DoodleJumpJS
 This is the web version of Doodle Jump 2016. 
 
